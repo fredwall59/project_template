@@ -1,4 +1,7 @@
 # Data Sources
 
-## To be populated
-- Source details to be added as data collection begins
+## [Dataset Name]
+- **Source:** [Organization or website name]
+- **URL:** [hyperlink]
+- **Scope:** [What years/scope the data covers]
+- **Notes:** [How to download it, any login requirements, file format, etc.]
